@@ -4,7 +4,7 @@
 
 I'm a **Lead Software Developer** with 10+ years of experience specializing in **healthcare interoperability** and **AI/ML engineering**. I'm passionate about bridging the gap between healthcare technology and artificial intelligence to create innovative solutions that improve patient care and data accessibility.
 
-Currently working at **HealthChain.io** (part of iNetFrame Technology), where I architect healthcare data exchange solutions and build intelligent systems powered by AI.
+Currently working at iNetFrame Technologies, where I architect healthcare data exchange solutions and build intelligent systems powered by AI.
 
 ## 🔭 What I'm Working On
 
