@@ -6,14 +6,14 @@ I'm a **Lead Software Developer** with 10+ years of experience specializing in *
 
 Currently working at iNetFrame Technologies, where I architect healthcare data exchange solutions and build intelligent systems powered by AI.
 
-## 🔭 What I'm Working On
+## What I'm Working On
 
 - Building **conversational AI chatbots** and **RAG applications** with LangChain and LangGraph
 - Developing **agentic AI architectures** for healthcare applications
 - Implementing **FHIR R4** resource extraction systems and data transformation workflows
 - Creating **machine learning models** for classification tasks with real-world healthcare data
 
-## 💼 Core Expertise
+## Core Expertise
 
 ### Healthcare Interoperability
 - **FHIR R4** | **HL7v2** | **EDI** | **CCDA**
@@ -36,7 +36,7 @@ Currently working at iNetFrame Technologies, where I architect healthcare data e
 - **Cloud:** AWS, Azure
 - **Architecture:** Microservices, Docker, Apache NiFi
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ```text
 Languages:        Node.js, Python, Java, JavaScript, TypeScript
@@ -47,22 +47,22 @@ Cloud & DevOps:   AWS, Azure, Docker, Microservices
 Tools:            Git, REST APIs, Azure Functions, Streamlit, Gradio
 ```
 
-## 🎯 Current Focus
+## Current Focus
 
 - 🤖 Transitioning deeper into **GenAI** and **Agentic AI** roles
 - 📚 Mastering **LangGraph** workflow execution and state management
 - 🏥 Innovating at the intersection of **healthcare** and **AI**
 - 🔬 Exploring advanced **RAG architectures** and **guardrail implementations**
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srini-jagadeesh)
 
-## 🎓 Education
+## Education
 
 **Master of Science in Information Technology and Management**  
 Illinois Institute of Technology, Chicago
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjagadee&show_icons=true&theme=radical)
