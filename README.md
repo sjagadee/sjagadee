@@ -1,6 +1,6 @@
-# Hi there, I'm Srini Jagadeesh 👋
+# Hi there, I'm Srinivas (Srini) Jagadeesh
 
-## 🚀 About Me
+## About Me
 
 I'm a **Lead Software Developer** with 10+ years of experience specializing in **healthcare interoperability** and **AI/ML engineering**. I'm passionate about bridging the gap between healthcare technology and artificial intelligence to create innovative solutions that improve patient care and data accessibility.
 
